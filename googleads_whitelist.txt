@@ -27,4 +27,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 www.googletagservices.com
 
-0.0.0.0 https://ad.doubleclick.net/
+0.0.0.0 ad.doubleclick.net

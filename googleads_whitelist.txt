@@ -28,3 +28,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.googletagservices.com
 
 0.0.0.0 ad.doubleclick.net
+0.0.0.0 n4052ad.doubleclick.net
+0.0.0.0 n4403ad.doubleclick.net
+0.0.0.0 n479ad.doubleclick.net
